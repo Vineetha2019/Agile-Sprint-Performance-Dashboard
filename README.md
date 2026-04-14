@@ -21,8 +21,7 @@ To analyze the sprint performance of the team using Agile methodology
 #### -Track progress mid-sprint to avoid end loading or include in daily scrum meeting 
 ## Reference Link:
 
-
-
+Agile Performance Dashboard.xlsx
 
 
 
