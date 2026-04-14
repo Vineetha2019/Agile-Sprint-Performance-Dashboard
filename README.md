@@ -23,7 +23,9 @@ To analyze the sprint performance of the team using Agile methodology
 ![Dashboard](Images/Agile%20Sprint%20Performance%20Dashboard.png)
 ## 📊 Excel Dashboard File
 [Download Excel Dashboard](agile-dashboard.xlsx)
-
+[Open Excel File](agile-dashboard.xlsx)
+📊 Download the file:  
+[Excel Dashboard](./agile-dashboard.xlsx)
 
 
 
