@@ -19,7 +19,7 @@ To analyze the sprint performance of the team using Agile methodology
 #### -Distribute workload evenly across sprint 
 #### -Start working on tasks as soon as story is ready 
 #### -Track progress mid-sprint to avoid end loading or include in daily scrum meeting 
-## Reference Link:
+## Agile Sprint Performance Dashboard:
 ![Dashboard](Images/Agile%20Sprint%20Performance%20Dashboard.png)
 
 
