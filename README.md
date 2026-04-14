@@ -21,10 +21,7 @@ To analyze the sprint performance of the team using Agile methodology
 #### -Track progress mid-sprint to avoid end loading or include in daily scrum meeting 
 ## Agile Sprint Performance Dashboard:
 ![Dashboard](Images/Agile%20Sprint%20Performance%20Dashboard.png)
-## 📊 Excel Dashboard File
-[Download Excel Dashboard](agile-dashboard.xlsx)
-[Open Excel File](agile-dashboard.xlsx)
-📊 Download the file:  
+## Download the file ( Click the Raw file)
 [Excel Dashboard](./agile-dashboard.xlsx)
 
 
