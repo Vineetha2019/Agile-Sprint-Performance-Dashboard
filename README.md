@@ -32,9 +32,10 @@ This analysis helps teams and organizations to:
 - Support data-driven decision-making
  ##  How to Use
 1. Download the Excel dashboard file from the repository  - [Excel Dashboard](./agile-dashboard.xlsx)
-2. Open it in Microsoft Excel  
-3. Explore sprint wise metrics and dashboard (Sheet name: Analysis data and Sheet name: Agile Performance Dashboard) 
-4. Analyze trends and insights for data driven decision making
+2. agile-dashboard.xlsx
+3. Open it in Microsoft Excel  
+4. Explore sprint wise metrics and dashboard (Sheet name: Analysis data and Sheet name: Agile Performance Dashboard) 
+5. Analyze trends and insights for data driven decision making
 ## Future Improvements
 - Integrate this raw data with Power BI and build dashboard 
 ## Agile Sprint Performance Dashboard:
