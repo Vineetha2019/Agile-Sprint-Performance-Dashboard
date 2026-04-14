@@ -36,7 +36,7 @@ This analysis helps teams and organizations to:
 3. Explore sprint wise metrics and dashboard (Sheet name: Analysis data and Sheet name: Agile Performance Dashboard) 
 4. Analyze trends and insights for data driven decision making
 ## Future Improvements
-- Integration with Power BI for advanced dashboards 
+- Integrate this raw data with Power BI and build dashboard 
 ## Agile Sprint Performance Dashboard:
 ![Dashboard](Images/Agile%20Sprint%20Performance%20Dashboard.png)
 
